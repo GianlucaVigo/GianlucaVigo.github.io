@@ -1,7 +1,7 @@
 ## Available FLC Lab exam solutions
 
 Currently there are available my **personal** solutions to the following Laboratory FLC exams:
-* [17/01/25](https://github.com/GianlucaVigo/acse/wiki/2025%E2%80%9001%E2%80%9017-Exam-=-Ternary-operator) -> ternary **operator**
+* [17/01/25](https://gianlucavigo.github.io/acse/exams/2025-01-17) -> ternary **operator** ([repo](https://github.com/GianlucaVigo/acse/wiki/2025%E2%80%9001%E2%80%9017-Exam-=-Ternary-operator))
 * [04/07/24](https://github.com/GianlucaVigo/acse/wiki/2024%E2%80%9007%E2%80%9004-Exam-=-Tri-operator) -> tri **operator**
 * 13/06/24 -> if-repeat-until _statement_
 * 13/02/24 -> pick **operator**
@@ -12,7 +12,7 @@ Currently there are available my **personal** solutions to the following Laborat
 
 ## Reorganization
 ### Operator
-* [17/01/25](https://github.com/GianlucaVigo/acse/wiki/2025%E2%80%9001%E2%80%9017-Exam-=-Ternary-operator) -> ternary **operator**
+* [17/01/25](https://gianlucavigo.github.io/acse/exams/2025-01-17) -> ternary **operator** ([repo](https://github.com/GianlucaVigo/acse/wiki/2025%E2%80%9001%E2%80%9017-Exam-=-Ternary-operator))
 * [04/07/24](https://github.com/GianlucaVigo/acse/wiki/2024%E2%80%9007%E2%80%9004-Exam-=-Tri-operator) -> tri **operator**
 * 13/02/24 -> pick **operator**
 * 30/06/23 -> software emulated division **operator**
