@@ -6,7 +6,4 @@ This [project](https://gianlucavigo.github.io/acse/acse) is related to the Forma
 
 ## Wireless Internet project (done)
 
-This project was part of the evaluation for the Wireless Internet course at Politecnico di Milano during the academic year 2023-24. The GitHub repo is available [here](https://github.com/GianlucaVigo/Wireless-Internet-Project_MAC-Randomization)
-
-**Project Description**
-> Modern smartphones randomize their MAC address during probe request emission. You are requested to produce a dataset characterizing the MAC randomization of your own device, following what done in the following paper: “A dataset of labelled device Wi-Fi probe requests for MAC address de-randomiza6on” by L. Pintor and L. Aztori, Computer Networks, Vol. 205, March 2022. The project should output a set of .pcap files, containing probe requests emiXedfrom your smartphones in different condi6ons (screen on/off, Wi-Fi on/off, Power saving on/off) to characterize the randomization behaviour of your smartphone. A final report is required to describe your findings.
+This [project](https://gianlucavigo.github.io/Wireless-Internet/MAC-Randomization-Project) was part of the evaluation for the Wireless Internet course at Politecnico di Milano during the academic year 2023-24. The GitHub repo is available [here](https://github.com/GianlucaVigo/Wireless-Internet-Project_MAC-Randomization)
