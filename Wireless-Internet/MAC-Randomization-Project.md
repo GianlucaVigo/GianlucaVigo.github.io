@@ -1,5 +1,7 @@
 # Wireless Internet Polimi Course Project: Characterizing MAC Randomization
 
+**_@MAC @polimi @polimi-wi @polimi-projects @MAC-randomization @wireless-internet_**
+
 ## Project Description
 Modern smartphones randomize their MAC address during probe request emission. 
 You are requested to produce a dataset characterizing the MAC randomization of your own device, following what done in the following paper: “A dataset of labelled device Wi-Fi probe requests for MAC address de-randomization” by L. Pintor and L. Aztori, Computer Networks, Vol. 205, March 2022. 
