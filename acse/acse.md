@@ -1,5 +1,7 @@
 ## Available FLC Lab exam solutions
 
+**_@compiler @compiler-design @polimi @polimi-flc_**
+
 Currently there are available my **personal** solutions to the following Laboratory FLC exams:
 * [17/01/25](https://gianlucavigo.github.io/acse/exams/2025-01-17) -> ternary **operator** ([wiki](https://github.com/GianlucaVigo/acse/wiki/2025%E2%80%9001%E2%80%9017-Exam-=-Ternary-operator), [repo](https://github.com/GianlucaVigo/acse/tree/25-01-17))
 * [04/07/24](https://gianlucavigo.github.io/acse/exams/2024-07-04) -> tri **operator** ([wiki](https://github.com/GianlucaVigo/acse/wiki/2024%E2%80%9007%E2%80%9004-Exam-=-Tri-operator), [repo](https://github.com/GianlucaVigo/acse/tree/24-07-04))
