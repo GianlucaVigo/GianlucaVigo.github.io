@@ -11,6 +11,7 @@ Currently there are available my **personal** solutions to the following Laborat
 * [04/09/23](https://gianlucavigo.github.io/acse/exams/2023-09-04) -> cswap _statement_ ([wiki](https://github.com/GianlucaVigo/acse/wiki/2023%E2%80%9009%E2%80%9004-Exam-=-Cswap-statement), [repo](https://github.com/GianlucaVigo/acse/tree/23-09-04))
 * 30/06/23 -> software emulated division **operator** (wiki, [repo](https://github.com/GianlucaVigo/acse/tree/23-06-30))
 * 06/02/23 -> modified assignment _statement_ (wiki, [repo](https://github.com/GianlucaVigo/acse/tree/23-02-06))
+* 20/01/23 -> inbounds **operator** (wiki, [repo](https://github.com/GianlucaVigo/acse/tree/23-01-20))
 
 ## Reorganization
 ### Operator
@@ -21,6 +22,7 @@ Currently there are available my **personal** solutions to the following Laborat
 | 04/07/2024   | tri op.| [site](https://gianlucavigo.github.io/acse/exams/2024-07-04) | [wiki](https://github.com/GianlucaVigo/acse/wiki/2024%E2%80%9007%E2%80%9004-Exam-=-Tri-operator) | [repo](https://github.com/GianlucaVigo/acse/tree/24-07-04) |
 | 13/02/2024   | pick op. | [site](https://gianlucavigo.github.io/acse/exams/2024-02-13) | [wiki](https://github.com/GianlucaVigo/acse/wiki/2024%E2%80%9002%E2%80%9013-Exam-=-Pick-operator) | [repo](https://github.com/GianlucaVigo/acse/tree/24-02-13) |
 | 30/06/2023   | soft div op. | site | wiki | [repo](https://github.com/GianlucaVigo/acse/tree/23-06-30) |
+| 20/01/2023   | inbounds op. | site | wiki | [repo](https://github.com/GianlucaVigo/acse/tree/23-01-20) |
 
 ### Statement
 
