@@ -11,7 +11,7 @@ Currently there are available my **personal** solutions to the following Laborat
 * [04/09/23](https://gianlucavigo.github.io/acse/exams/2023-09-04) -> cswap _statement_ ([wiki](https://github.com/GianlucaVigo/acse/wiki/2023%E2%80%9009%E2%80%9004-Exam-=-Cswap-statement), [repo](https://github.com/GianlucaVigo/acse/tree/23-09-04))
 * [30/06/23](https://gianlucavigo.github.io/acse/exams/2023-06-30) -> software emulated division **operator** ([wiki](https://github.com/GianlucaVigo/acse/wiki/2023%E2%80%9006%E2%80%9030-Exam-=-Software-Emulated-Division-operator), [repo](https://github.com/GianlucaVigo/acse/tree/23-06-30))
 * [08/06/23](https://gianlucavigo.github.io/acse/exams/2023-06-08) -> replace _statement_ ([wiki](https://github.com/GianlucaVigo/acse/wiki/2023%E2%80%9006%E2%80%9008-Exam-=-Replace-statement), [repo](https://github.com/GianlucaVigo/acse/tree/23-06-08))
-* 06/02/23 -> modified assignment _statement_ (wiki, [repo](https://github.com/GianlucaVigo/acse/tree/23-02-06))
+* [06/02/23](https://gianlucavigo.github.io/acse/exams/2023-02-06) -> modified assignment _statement_ ([wiki](https://github.com/GianlucaVigo/acse/wiki/2023%E2%80%9002%E2%80%9006-Exam-=-Modified-Assignment-statement), [repo](https://github.com/GianlucaVigo/acse/tree/23-02-06))
 * 20/01/23 -> inbounds **operator** (wiki, [repo](https://github.com/GianlucaVigo/acse/tree/23-01-20))
 
 ## Reorganization
@@ -33,7 +33,7 @@ Currently there are available my **personal** solutions to the following Laborat
 | 25/01/2024   | repeat_exp st. | [site](https://gianlucavigo.github.io/acse/exams/2024-01-25) | [wiki](https://github.com/GianlucaVigo/acse/wiki/2024%E2%80%9001%E2%80%9025-Exam-=-Repeat_exp-statement) | [repo](https://github.com/GianlucaVigo/acse/tree/24-01-25) |
 | 04/09/2023   | cswap st. | [site](https://gianlucavigo.github.io/acse/exams/2023-09-04) | [wiki](https://github.com/GianlucaVigo/acse/wiki/2023%E2%80%9009%E2%80%9004-Exam-=-Cswap-statement) | [repo](https://github.com/GianlucaVigo/acse/tree/23-09-04) |
 | 08/06/2023   | replace st. | [site](https://gianlucavigo.github.io/acse/exams/2023-06-08) | [wiki](https://github.com/GianlucaVigo/acse/wiki/2023%E2%80%9006%E2%80%9008-Exam-=-Replace-statement) | [repo](https://github.com/GianlucaVigo/acse/tree/23-06-08)
-| 06/02/2023   | modified assign st. | site | wiki | [repo](https://github.com/GianlucaVigo/acse/tree/23-02-06) |
+| 06/02/2023   | modified assign st. | [site](https://gianlucavigo.github.io/acse/exams/2023-02-06) | [wiki](https://github.com/GianlucaVigo/acse/wiki/2023%E2%80%9002%E2%80%9006-Exam-=-Modified-Assignment-statement) | [repo](https://github.com/GianlucaVigo/acse/tree/23-02-06) |
 
 ***
 
