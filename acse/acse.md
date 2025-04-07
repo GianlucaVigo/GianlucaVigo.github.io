@@ -13,27 +13,30 @@ Currently there are available my **personal** solutions to the following Laborat
 * [08/06/23](https://gianlucavigo.github.io/acse/exams/2023-06-08) -> replace _statement_ ([wiki](https://github.com/GianlucaVigo/acse/wiki/2023%E2%80%9006%E2%80%9008-Exam-=-Replace-statement), [repo](https://github.com/GianlucaVigo/acse/tree/23-06-08))
 * [06/02/23](https://gianlucavigo.github.io/acse/exams/2023-02-06) -> modified assignment _statement_ ([wiki](https://github.com/GianlucaVigo/acse/wiki/2023%E2%80%9002%E2%80%9006-Exam-=-Modified-Assignment-statement), [repo](https://github.com/GianlucaVigo/acse/tree/23-02-06))
 * 20/01/23 -> inbounds **operator** (wiki, [repo](https://github.com/GianlucaVigo/acse/tree/23-01-20))
+* 05/09/22 -> randomize _statement_/random **operator** (wiki, [repo](https://github.com/GianlucaVigo/acse/tree/05-09-22))
 
 ## Reorganization
 ### Operator
 
-| Exam Date | Operator | Site Page | Wiki | Repo |
-|:---|:---|:---:|:---:|:---:|
-| 17/01/2025   | ternary op. | [site](https://gianlucavigo.github.io/acse/exams/2025-01-17) | [wiki](https://github.com/GianlucaVigo/acse/wiki/2025%E2%80%9001%E2%80%9017-Exam-=-Ternary-operator) | [repo](https://github.com/GianlucaVigo/acse/tree/25-01-17) |
-| 04/07/2024   | tri op.| [site](https://gianlucavigo.github.io/acse/exams/2024-07-04) | [wiki](https://github.com/GianlucaVigo/acse/wiki/2024%E2%80%9007%E2%80%9004-Exam-=-Tri-operator) | [repo](https://github.com/GianlucaVigo/acse/tree/24-07-04) |
-| 13/02/2024   | pick op. | [site](https://gianlucavigo.github.io/acse/exams/2024-02-13) | [wiki](https://github.com/GianlucaVigo/acse/wiki/2024%E2%80%9002%E2%80%9013-Exam-=-Pick-operator) | [repo](https://github.com/GianlucaVigo/acse/tree/24-02-13) |
-| 30/06/2023   | soft div op. | [site](https://gianlucavigo.github.io/acse/exams/2023-06-30) | [wiki](https://github.com/GianlucaVigo/acse/wiki/2023%E2%80%9006%E2%80%9030-Exam-=-Software-Emulated-Division-operator) | [repo](https://github.com/GianlucaVigo/acse/tree/23-06-30) |
-| 20/01/2023   | inbounds op. | site | wiki | [repo](https://github.com/GianlucaVigo/acse/tree/23-01-20) |
+| Exam Date | Operator | Site Page | Wiki | Repo | Relevant Elements |
+|:---|:---|:---:|:---:|:---:|:---|
+| 17/01/2025   | ternary op. | [site](https://gianlucavigo.github.io/acse/exams/2025-01-17) | [wiki](https://github.com/GianlucaVigo/acse/wiki/2025%E2%80%9001%E2%80%9017-Exam-=-Ternary-operator) | [repo](https://github.com/GianlucaVigo/acse/tree/25-01-17) | \ |
+| 04/07/2024   | tri op.| [site](https://gianlucavigo.github.io/acse/exams/2024-07-04) | [wiki](https://github.com/GianlucaVigo/acse/wiki/2024%E2%80%9007%E2%80%9004-Exam-=-Tri-operator) | [repo](https://github.com/GianlucaVigo/acse/tree/24-07-04) | \ |
+| 13/02/2024   | pick op. | [site](https://gianlucavigo.github.io/acse/exams/2024-02-13) | [wiki](https://github.com/GianlucaVigo/acse/wiki/2024%E2%80%9002%E2%80%9013-Exam-=-Pick-operator) | [repo](https://github.com/GianlucaVigo/acse/tree/24-02-13) | @arrays |
+| 30/06/2023   | soft div op. | [site](https://gianlucavigo.github.io/acse/exams/2023-06-30) | [wiki](https://github.com/GianlucaVigo/acse/wiki/2023%E2%80%9006%E2%80%9030-Exam-=-Software-Emulated-Division-operator) | [repo](https://github.com/GianlucaVigo/acse/tree/23-06-30) | \ |
+| 20/01/2023   | inbounds op. | site | wiki | [repo](https://github.com/GianlucaVigo/acse/tree/23-01-20) | @arrays @vars |
+| 05/09/2022   | randomize/random | site | wiki | [repo](https://github.com/GianlucaVigo/acse/tree/05-09-22) | @globalVars |
 
 ### Statement
 
-| Exam Date | Statement | Site Page | Wiki | Repo |
-|:---|:---|:---:|:---:|:---:|
-| 13/06/2024   | if-repeat-until st. | [site](https://gianlucavigo.github.io/acse/exams/2024-07-04) | [wiki](https://github.com/GianlucaVigo/acse/wiki/2024%E2%80%9006%E2%80%9013-Exam-=-if%E2%80%90repeat%E2%80%90until-statement) | [repo](https://github.com/GianlucaVigo/acse/tree/24-06-13) |
-| 25/01/2024   | repeat_exp st. | [site](https://gianlucavigo.github.io/acse/exams/2024-01-25) | [wiki](https://github.com/GianlucaVigo/acse/wiki/2024%E2%80%9001%E2%80%9025-Exam-=-Repeat_exp-statement) | [repo](https://github.com/GianlucaVigo/acse/tree/24-01-25) |
-| 04/09/2023   | cswap st. | [site](https://gianlucavigo.github.io/acse/exams/2023-09-04) | [wiki](https://github.com/GianlucaVigo/acse/wiki/2023%E2%80%9009%E2%80%9004-Exam-=-Cswap-statement) | [repo](https://github.com/GianlucaVigo/acse/tree/23-09-04) |
-| 08/06/2023   | replace st. | [site](https://gianlucavigo.github.io/acse/exams/2023-06-08) | [wiki](https://github.com/GianlucaVigo/acse/wiki/2023%E2%80%9006%E2%80%9008-Exam-=-Replace-statement) | [repo](https://github.com/GianlucaVigo/acse/tree/23-06-08)
-| 06/02/2023   | modified assign st. | [site](https://gianlucavigo.github.io/acse/exams/2023-02-06) | [wiki](https://github.com/GianlucaVigo/acse/wiki/2023%E2%80%9002%E2%80%9006-Exam-=-Modified-Assignment-statement) | [repo](https://github.com/GianlucaVigo/acse/tree/23-02-06) |
+| Exam Date | Statement | Site Page | Wiki | Repo | Relevant Elements |
+|:---|:---|:---:|:---:|:---:|:---|
+| 13/06/2024   | if-repeat-until st. | [site](https://gianlucavigo.github.io/acse/exams/2024-07-04) | [wiki](https://github.com/GianlucaVigo/acse/wiki/2024%E2%80%9006%E2%80%9013-Exam-=-if%E2%80%90repeat%E2%80%90until-statement) | [repo](https://github.com/GianlucaVigo/acse/tree/24-06-13) | @structs |
+| 25/01/2024   | repeat_exp st. | [site](https://gianlucavigo.github.io/acse/exams/2024-01-25) | [wiki](https://github.com/GianlucaVigo/acse/wiki/2024%E2%80%9001%E2%80%9025-Exam-=-Repeat_exp-statement) | [repo](https://github.com/GianlucaVigo/acse/tree/24-01-25) | @structs @vars |
+| 04/09/2023   | cswap st. | [site](https://gianlucavigo.github.io/acse/exams/2023-09-04) | [wiki](https://github.com/GianlucaVigo/acse/wiki/2023%E2%80%9009%E2%80%9004-Exam-=-Cswap-statement) | [repo](https://github.com/GianlucaVigo/acse/tree/23-09-04) | @vars |
+| 08/06/2023   | replace st. | [site](https://gianlucavigo.github.io/acse/exams/2023-06-08) | [wiki](https://github.com/GianlucaVigo/acse/wiki/2023%E2%80%9006%E2%80%9008-Exam-=-Replace-statement) | [repo](https://github.com/GianlucaVigo/acse/tree/23-06-08) | @arrays |
+| 06/02/2023   | modified assign st. | [site](https://gianlucavigo.github.io/acse/exams/2023-02-06) | [wiki](https://github.com/GianlucaVigo/acse/wiki/2023%E2%80%9002%E2%80%9006-Exam-=-Modified-Assignment-statement) | [repo](https://github.com/GianlucaVigo/acse/tree/23-02-06) | @globalVars @arrays @lists @vars |
+| 05/09/2022   | randomize/random | site | wiki | [repo](https://github.com/GianlucaVigo/acse/tree/05-09-22) | @globalVars |
 
 ***
 
