@@ -13,7 +13,8 @@ Currently there are available my **personal** solutions to the following Laborat
 * [08/06/23](https://gianlucavigo.github.io/acse/exams/2023-06-08) -> replace _statement_ ([wiki](https://github.com/GianlucaVigo/acse/wiki/2023%E2%80%9006%E2%80%9008-Exam-=-Replace-statement), [repo](https://github.com/GianlucaVigo/acse/tree/23-06-08))
 * [06/02/23](https://gianlucavigo.github.io/acse/exams/2023-02-06) -> modified assignment _statement_ ([wiki](https://github.com/GianlucaVigo/acse/wiki/2023%E2%80%9002%E2%80%9006-Exam-=-Modified-Assignment-statement), [repo](https://github.com/GianlucaVigo/acse/tree/23-02-06))
 * [20/01/23](https://gianlucavigo.github.io/acse/exams/2023-01-20) -> inbounds **operator** ([wiki](https://github.com/GianlucaVigo/acse/wiki/2023%E2%80%9001%E2%80%9020-Exam-=-Inbounds-operator), [repo](https://github.com/GianlucaVigo/acse/tree/23-01-20))
-* [05/09/22](https://gianlucavigo.github.io/acse/exams/2022-09-05) -> randomize _statement_/random **operator** ([wiki](https://github.com/GianlucaVigo/acse/wiki/2022%E2%80%9009%E2%80%9005-Exam-=-Random-operator-&-Randomize-statement), [repo](https://github.com/GianlucaVigo/acse/tree/05-09-22))
+* [05/09/22](https://gianlucavigo.github.io/acse/exams/2022-09-05) -> randomize _statement_/random **operator** ([wiki](https://github.com/GianlucaVigo/acse/wiki/2022%E2%80%9009%E2%80%9005-Exam-=-Random-operator-&-Randomize-statement), [repo](https://github.com/GianlucaVigo/acse/tree/22-09-05))
+* [05/07/22](https://gianlucavigo.github.io/acse/exams/2022-07-05) -> count\_ones **operator** ([wiki](https://github.com/GianlucaVigo/acse/wiki/2022%E2%80%9007%E2%80%9005-Exam-=-Count_ones-operator), [repo](https://github.com/GianlucaVigo/acse/tree/22-07-05))
 
 ## Reorganization
 ### Operator
@@ -26,6 +27,8 @@ Currently there are available my **personal** solutions to the following Laborat
 | 30/06/2023   | soft div op. | [site](https://gianlucavigo.github.io/acse/exams/2023-06-30) | [wiki](https://github.com/GianlucaVigo/acse/wiki/2023%E2%80%9006%E2%80%9030-Exam-=-Software-Emulated-Division-operator) | [repo](https://github.com/GianlucaVigo/acse/tree/23-06-30) | \ |
 | 20/01/2023   | inbounds op. | [site](https://gianlucavigo.github.io/acse/exams/2023-01-20) | [wiki](https://github.com/GianlucaVigo/acse/wiki/2023%E2%80%9001%E2%80%9020-Exam-=-Inbounds-operator) | [repo](https://github.com/GianlucaVigo/acse/tree/23-01-20) | @arrays @vars |
 | 05/09/2022   | randomize/random | [site](https://gianlucavigo.github.io/acse/exams/2022-09-05) | [wiki](https://github.com/GianlucaVigo/acse/wiki/2022%E2%80%9009%E2%80%9005-Exam-=-Random-operator-&-Randomize-statement) | [repo](https://github.com/GianlucaVigo/acse/tree/05-09-22) | @globalVars |
+| 05/07/2022   | count\_ones op. | [site](https://gianlucavigo.github.io/acse/exams/2022-07-05) | [wiki](https://github.com/GianlucaVigo/acse/wiki/2022%E2%80%9007%E2%80%9005-Exam-=-Count_ones-operator) | [repo](https://github.com/GianlucaVigo/acse/tree/22-07-05) | \ |
+
 
 ### Statement
 
