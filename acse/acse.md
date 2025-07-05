@@ -49,7 +49,16 @@ If the links to an exam is active, there's also a related site page, wiki page a
   
 ***
 
-
 For each one of them, starting from the main branch (which represents the base ACSE compiler):
 * a new branch was created to encapsulate all the requested modifications
 * a new directory in the "tests" one was added for storing all the needed files (.c, .asm, .o) + the related exam papers for having an immediate reference
+
+
+## Need more help? Seen an error?
+
+Feel free to open a [new discussion](https://github.com/GianlucaVigo/acse/discussions) in the associated GitHub repo and I'll answer as soon as possible.
+
+
+## Did you like my project?
+
+Everything here is FREE but if you want to thank me, you can star the repo.
