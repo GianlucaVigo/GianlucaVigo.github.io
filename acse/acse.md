@@ -61,4 +61,6 @@ Feel free to open a [new discussion](https://github.com/GianlucaVigo/acse/discus
 
 ## Did you like my project?
 
-Everything here is FREE but if you want to thank me, you can star the repo.
+Everything here is FREE but if you want to thank me, you can STAR the repo.
+
+![Stars Everywhere](/docs/assets/images/stars.gif)
